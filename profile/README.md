@@ -2,4 +2,4 @@
 
 This is Mini Soda from UW-Madison.
 
-We're 3 students who are passionate about Computer Science, especially algorithms.
+We're a group of 3 students who are passionate about computer science, especially algorithms.
